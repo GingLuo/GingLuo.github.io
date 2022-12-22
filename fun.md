@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses @ CMU
-permalink: /courses/
+permalink: /fun/
 ---
 
 TODO
