@@ -14,4 +14,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 412-773-0318
+
 [yichuanl@andrew.cmu.edu](mailto:yichuanl@andrew.cmu.edu)
