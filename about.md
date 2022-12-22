@@ -10,7 +10,7 @@ Outside of the classroom, I enjoy photography and nature. I love to capture its 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+TODO
 
 ### Contact me
 412-773-0318

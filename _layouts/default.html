@@ -26,12 +26,24 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="/Resume.pdf">Resume</a>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
+          <!-- <nav>
             <a href="{{ site.baseurl }}/about">About</a>
+            <a href="/Resume.pdf">Resume</a>
+            <a href="{{ site.baseurl }}/blog">Showcase</a>
             <a href="{{ site.baseurl }}/">Home</a>
-          </nav>
+          </nav> -->
+
+          <nav class="nav">
+            <div class="nav-left">
+                <a href="{{ site.baseurl }}/">Home</a>
+            </div>
+            <div class="nav-right">
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="/Resume.pdf">Resume</a>
+              <a href="{{ site.baseurl }}/blog">Showcase</a>
+            </div>
+        </nav>
+
         </header>
       </div>
     </div>
