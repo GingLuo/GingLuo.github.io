@@ -4,7 +4,7 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
-### Freshman
+# Freshman
 
 ## Fall 2020 (Remote)
 
@@ -28,7 +28,7 @@ permalink: /courses/
 - 15-122 Principles of Imperative Computation
 - 36-225 Introduction to Probability Theory
 
-### Sophomore
+# Sophomore
 
 ## Fall 2021
 
@@ -54,7 +54,7 @@ permalink: /courses/
 - 18-499 Internship
 - **Summer Intern at NVIDIA**
 
-### Junior
+# Junior
 
 ## Fall 2022
 
@@ -69,7 +69,7 @@ permalink: /courses/
 
 - TODO
 
-### Senior
+# Senior
 
 ## Fall 2023
 
