@@ -8,9 +8,7 @@ name: Yichuan (Ging) Luo
 # Short bio or description (displayed in the header)
 # description: "yichuanl@andrew.cmu.edu\
 # 412-773-0318 \n Junior at Carnegie Mellon University \n SCS Class of 2024, CIT Class of 2024"
-description: "This is a long string
-              \n\n\n
-              with new lines"
+description: "hello<br>world"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/pic.jpg
