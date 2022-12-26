@@ -5,7 +5,8 @@ permalink: /fun/
 ---
 
 ## Photography @ CMU
-### Sunny & Blue skies are rare in Pitts :O
+
+**Sunny & Blue skies are rare in Pitts :O**
 
 {% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_0567.jpg" description="The Church behind Tepper" %}
 &nbsp;
