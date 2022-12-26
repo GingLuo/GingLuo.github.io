@@ -6,7 +6,7 @@ permalink: /fun/
 
 ## Photography @ CMU
 
-**Sunny & Blue skies are rare in Pitts :O**
+**Sunny & Blue skies in Pitts are rare :O**
 
 {% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_0567.jpg" description="The Church behind Tepper" %}
 &nbsp;
@@ -26,5 +26,5 @@ permalink: /fun/
 {% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_0481.jpg" description="Backstreet" %}
 &nbsp;
 
-{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_2647.jpg" description="Christmas in Point State Park" %}
+{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_2647.jpg" description="Christmas at Point State Park" %}
 &nbsp;
