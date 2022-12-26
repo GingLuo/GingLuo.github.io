@@ -12,15 +12,13 @@ permalink: /fun/
 
 {% include image.html url="/images/photography/IMG_7458.heic" description="Autumn Red" %} -->
 
-<!-- {% include image.html url="/images/photography/IMG_8246.jpg" description="The Colorful" %}
-&nbsp; -->
+{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_8246.JPG" description="The Colorful" %}
+&nbsp;
 
-![alt text](/images/photography/IMG_8246.jpg)
+{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_7937.heic" description="Color" %}
 
-<!-- {% include image.html url="/images/photography/IMG_7937.heic" description="Color" %}
+{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_0481.heic" description="Backstreet" %}
 
-{% include image.html url="/images/photography/IMG_0481.heic" description="Backstreet" %}
-
-{% include image.html url="/images/photography/IMG_2647.heic" description="Christmas in Point State Park" %} -->
+{% include image.html url="https://raw.githubusercontent.com/GingLuo/GingLuo.github.io/master/images/photography/IMG_2647.heic" description="Christmas in Point State Park" %}
 
 ### Sunny & Blue skies are rare in Pitts :O
