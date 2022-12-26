@@ -5,69 +5,76 @@ permalink: /courses/
 ---
 
 ### Freshman
-## Fall 2020
-- Research with [Seth Goldstein](http://www.cs.cmu.edu/~seth/) on Fast Register Allocation for JIT compilation
-- 15-440 Distributed Systems
-- 15-459 Quantum Computation
-- 21-295 Putnam Seminar
 
-## Spring 2020 (COVID-19 hybrid semester)
+## Fall 2020 (Remote)
 
-- **Head TA [15-122](https://www.cs.cmu.edu/~iliano/courses/20S-CMU-CS122/)**
-- 15-410 Operating System Design and Implementation **(Systems Concentration)**
-- 15-330 Introduction to Computer Security **(Systems Concentration)**
-- 15-317 Constructive Logic
-- 17-200 Ethics and Policy Issues in Computing
+- 18-100 Intro to Electrical & Computer Engineering
+- 21-127 Concepts of Mathematics (crosslisted as 15-151)
+- 33-142 Physics II for Engineering and Physics Students
+- 76-100 Reading & Writing I
+- 98-378 Stuco: Video Editing
+- **Exchange student at Peking University**
 
-## Fall 2019
+## Spring 2021 (Remote)
 
-- **Head TA [15-122](https://www.cs.cmu.edu/~iliano/courses/19F-CMU-CS122/)**
-- 15-411 Compiler Design **(Systems Concentration)**
-- 15-455 Undergraduate Complexity Theory
-- 36-401 Modern Regression **(ML Minor)**
-- 57-173 Survey of Western Music History **(Cat 3)**
-- 57-188 Repertoire and Listening for Musicians **(Cat 3, co-req for 57-173)**
-- 66-221 Topics of Law: Introduction to IP Law **(Free elective)**
+- 15-112 Fundamentals of Programming and Computer Science
+- 21-254 Linear Algebra and Vector Calculus for Engineers
+- 27-100 Engineering the Materials of the Future
+- 76-101 Reading & Writing II
+- 82-103 Elementary French I
 
-## Spring 2019
+## Summer 2021 (Remote)
 
-- **TA [15-122](https://www.cs.cmu.edu/~iliano/courses/19S-CMU-CS122/)**
-- 15-451 Algorithm Design and Analysis
-- 10-315 Introduction to Machine Learning
-- 15-381 Artificial Intelligence: Problem Solving and Representation
-- 70-100 Global Business **(Free elective)**
-- 70-160 Graphic Media Management **(Free elective)**
-- 98-244 Sign Language through Pop Music
-
-## Fall 2018
-
-- **TA [15-122](https://www.cs.cmu.edu/~iliano/courses/18F-CMU-CS122/)**
-- 15-210 Parallel and Sequential Data Structures and Algorithms
-- 15-213 Introduction to Computer Systems
-- 36-218 Probability Theory for Computer Scientists
-- 33-104 Experimental Physics
-- 70-311 Organizational Behavior **(Cat 1)**
-
-## Spring 2018
-
-- **TA [15-122](https://www.cs.cmu.edu/~iliano/courses/18S-CMU-CS122/)**
-- 15-150 Principles of Functional Programming
-- 15-251 Great Theoretical Ideas in Computer Science
-- 73-102 Principles of Microeconomics **(Cat 2)**
-- 21-241 Matrices and Linear Transformations
-
-## Fall 2017
-
-- 15-051 Discrete Math Primer
 - 15-122 Principles of Imperative Computation
-- 15-128 Freshman Immigration Course
-- 15-131 Great Practical Ideas for Computer Scientists
-- 15-151 Mathematical Foundations for Computer Science
-- 21-122 Integration and Approximation
-- 76-101 Interpretation and Argument
-- 99-101 Computing @ Carnegie Mellon
-- 98-012 Fun with Robots
+- 36-225 Introduction to Probability Theory
 
-## Update
+### Sophomore
 
-1 course away from graduation? Too soon...
+## Fall 2021
+
+- 18-213 Introduction to Computer Systems (crosslisted as 15-213)
+- 18-220 Electronic Devices & Analog Circuits
+- 21-260 Differential Equations
+- 76-270 Writing for the Professions
+- 18-200 ECE Sophomore Seminar
+- **TA 18-100**
+
+## Spring 2022
+
+- 15-150 Principles of Functional Programming
+- 18-240 Structure & Design of Digital Systems
+- 21-241 Matrices & Linear Transformations
+- 36-226 Introduction to Statistical Inference
+- 18-580 Undergraduate Projects
+- **Research in [VDEL lab](http://vdel.me.cmu.edu/)**
+
+## Summer 2022
+
+- 10-301 Introduction to Machine Learning
+- 18-499 Internship
+- **Summer Intern at NVIDIA**
+
+### Junior
+
+## Fall 2022
+
+- 15-210 Parallel & Sequential Data Structures and Algorithms
+- 15-251 Great Theoretical Ideas in Computer Science
+- 17-313 Foundations of Software Engineering
+- 80-244 Environmental Ethics
+- 57-103 Beginning Piano Studio
+- **Research in [VDEL lab](http://vdel.me.cmu.edu/)**
+
+## Spring 2023
+
+- TODO
+
+### Senior
+
+## Fall 2023
+
+- TODO
+
+## Spring 2024
+
+- TODO
