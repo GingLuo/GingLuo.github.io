@@ -12,8 +12,10 @@ permalink: /fun/
 
 {% include image.html url="/images/photography/IMG_7458.heic" description="Autumn Red" %} -->
 
-{% include image.html url="/images/photography/IMG_8246.jpg" description="The Colorful" %}
-&nbsp;
+<!-- {% include image.html url="/images/photography/IMG_8246.jpg" description="The Colorful" %}
+&nbsp; -->
+
+![alt text](/images/photography/IMG_8246.jpg)
 
 <!-- {% include image.html url="/images/photography/IMG_7937.heic" description="Color" %}
 
